@@ -1,4 +1,4 @@
-name: deploy PHP app to azure app Service
+name: deploy PHP app to azure Aapp Service
 
 on:
   push:
