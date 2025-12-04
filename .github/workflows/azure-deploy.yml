@@ -2,7 +2,7 @@ name: deploy PHP app to azure app Service
 
 on:
   push:
-    -main
+    - main
 
 
 jobs:
